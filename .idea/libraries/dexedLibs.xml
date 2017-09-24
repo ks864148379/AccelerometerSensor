@@ -1,0 +1,37 @@
+<component name="libraryTable">
+  <library name="dexedLibs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/bin/dexedLibs/outer_svmapSDK1.0-0c529333af99bf206704bf91765862cd.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/dexedLibs/httpmime-4.1.2-c94b272863adcfc0a0cd3efdecc00569.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/dexedLibs/nineoldandroids-2.4.0-a567845ec8c7b94d258de7b5f1d6bb5f.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/dexedLibs/android-support-v7-recyclerview-dfd5fdcd0a621117fd87d2b6acee9c49.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/dexedLibs/android-support-v7-appcompat-c33a0ca64850fa8923040886b1aa545d.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/dexedLibs/android-support-v7-recyclerview-4ef31a78982d666740875b3f0ddaf3d9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/dexedLibs/android-support-v7-appcompat-ec91fc3152edc5145fc90251b529d913.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/dexedLibs/BaiduLBS_Android-b85d5310b8f87323e61ce8e0910b5799.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/dexedLibs/mwBeaconSDK-270ba13c25f4cf52f6d0bb975015054f.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/dexedLibs/IndoorscapeAlbumPlugin-d7f771bc3cd3e9500ae19d692ef5e231.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/dexedLibs/android-support-v4-4be82aa3589635c56f60087c23692a7f.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/dexedLibs/android-support-v4-61701038ee6ca4da2b41bf5b05ffeebe.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/dexedLibs/nineoldandroids-2.4.0-5a0f19eed871f96b2b6c015c5aa4aba5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/dexedLibs/BaiduLBS_Android-5a044cfa5df186ca398f049b0e586af1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/dexedLibs/outer_svmapSDK1.0-f28209530e693bda75e08cf8275c19f7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/dexedLibs/android-support-v4-d13dc0a8e3262ecf4b11b5e5e00e7907.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/dexedLibs/mwBeaconSDK-66b9ffb1a4e0c95df06257c3bb3620e1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/dexedLibs/mwBeaconSDK-dcded67d519d0c2c02eccbe5dd823fc2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/dexedLibs/android-support-v7-recyclerview-84ba62b6108662b76f98ed1805433b01.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/dexedLibs/BaiduLBS_Android-f9bc5d2ea9db091bc2c90f889a082fe3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/dexedLibs/nineoldandroids-2.4.0-cc871e35674aca2c0829356743c0c215.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/dexedLibs/android-support-v7-recyclerview-086221f56065ce90145715fbaf041b91.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/dexedLibs/android-support-v7-appcompat-81c807134cba580cc3e86ce50e5748e3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/dexedLibs/android-support-v7-appcompat-5fdd640bf1b5f3f989b7c660464f88e9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/dexedLibs/outer_svmapSDK1.0-79a1d88e3a6aee07339d33741da1c40e.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/dexedLibs/android-support-v4-7e0938e03bc7f32c0186302758557f9f.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/dexedLibs/nineoldandroids-2.4.0-d61679dc7e33b2fa8391e9e0fe97b828.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/dexedLibs/BaiduLBS_Android-c0d4d889f720805c953bab9da0a0f6e5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/dexedLibs/outer_svmapSDK1.0-cc49fb801b34d67f5fa2b50cb1777fd4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry kind="lib" path="E:/AndroidProject/BaiduLBS_AndroidSDK_Lib/libs/BaiduLBS_Android.jar"/>
+	<classpathentry kind="lib" path="E:/AndroidProject/BaiduLBS_AndroidSDK_Lib/libs/httpmime-4.1.2.jar"/>
+	<classpathentry kind="lib" path="E:/AndroidProject/BaiduLBS_AndroidSDK_Lib/libs/IndoorscapeAlbumPlugin.jar"/>
+	<classpathentry kind="lib" path="E:/AndroidProject/BaiduMap_AndroidSDK_v2.1.3_Lib/baidumapapi_v2_1_3.jar"/>
+	<classpathentry kind="lib" path="E:/adt-bundle-windows-x86-20131030/sdk/platforms/android-19/android.jar"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>

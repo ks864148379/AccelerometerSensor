@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+				android:layout_width="match_parent"
+				android:layout_height="match_parent"
+			    android:background="@drawable/full_gb"
+		        android:orientation="vertical">
+
+	<TextView
+			android:id="@+id/fullscreen_content"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:gravity="center"
+			android:layout_marginTop="50dp"
+			android:keepScreenOn="true"
+			android:text="展会蓝牙基站系统"
+			android:textColor="#4876FF"
+			android:textSize="32sp"
+			android:textStyle="normal" />
+
+	<LinearLayout
+			android:layout_marginLeft="10dp"
+			android:layout_marginRight="10dp"
+			android:orientation="horizontal"
+			android:layout_width="match_parent"
+			android:layout_height="65dp"
+			android:layout_marginTop="100dp"
+			android:layout_centerHorizontal="true">
+
+		<Button android:id="@+id/scanMap"
+				android:layout_weight="1"
+				android:layout_width="match_parent"
+				android:layout_height="match_parent"
+				android:text="地图导览"
+				android:textSize="18sp"
+				android:background="@drawable/btn_style_white"/>
+		<Button
+				android:id="@+id/location"
+				android:layout_weight="1"
+				android:layout_width="match_parent"
+				android:layout_height="match_parent"
+				android:text="位置标定"
+				android:textSize="18sp"
+				android:background="@drawable/btn_style_white"/>
+	</LinearLayout>
+	<TextView
+			android:layout_width="match_parent"
+			android:layout_height="15dp"/>
+	<LinearLayout
+			android:layout_marginLeft="10dp"
+			android:layout_marginRight="10dp"
+			android:orientation="horizontal"
+			android:layout_width="match_parent"
+			android:layout_height="65dp">
+
+		<Button
+				android:id="@+id/start"
+				android:layout_weight="1"
+				android:layout_width="match_parent"
+				android:layout_height="match_parent"
+				android:layout_centerHorizontal="true"
+				android:text="开始采集"
+				android:textSize="18sp"
+				android:background="@drawable/btn_style_white"/>
+		<Button
+				android:id="@+id/stop"
+				android:layout_weight="1"
+				android:layout_width="match_parent"
+				android:layout_height="match_parent"
+				android:layout_centerHorizontal="true"
+				android:text="停止采集"
+				android:textSize="18sp"
+				android:background="@drawable/btn_style_white"/>
+		<Button
+				android:id="@+id/start_upload"
+				android:layout_weight="1"
+				android:layout_width="match_parent"
+				android:layout_height="match_parent"
+				android:layout_centerHorizontal="true"
+				android:text="开始上传"
+				android:textSize="18sp"
+				android:background="@drawable/btn_style_white"/>
+		<Button
+				android:id="@+id/stop_upload"
+				android:layout_weight="1"
+				android:layout_width="match_parent"
+				android:layout_height="match_parent"
+				android:layout_centerHorizontal="true"
+				android:text="停止上传"
+				android:textSize="18sp"
+				android:background="@drawable/btn_style_white"/>
+	</LinearLayout>
+
+	<TextView
+			android:layout_width="match_parent"
+			android:layout_height="15dp"/>
+
+	<LinearLayout
+			android:layout_marginLeft="10dp"
+			android:layout_marginRight="10dp"
+			android:orientation="horizontal"
+			android:layout_width="match_parent"
+			android:layout_height="65dp"
+			android:layout_centerHorizontal="true">
+
+		<Button
+				android:id="@+id/currentVisitor"
+				android:layout_weight="1"
+				android:layout_width="match_parent"
+				android:layout_height="match_parent"
+				android:layout_centerHorizontal = "true"
+				android:text="查看来访人数"
+				android:textSize="18sp"
+				android:background="@drawable/btn_style_white"/>
+		<Button
+				android:id="@+id/setting"
+				android:layout_weight="1"
+				android:layout_width="match_parent"
+				android:layout_height="match_parent"
+				android:layout_centerHorizontal = "true"
+				android:text="设置"
+				android:textSize="18sp"
+				android:background="@drawable/btn_style_white"/>
+		</LinearLayout>
+
+</LinearLayout>

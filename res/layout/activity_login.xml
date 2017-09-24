@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+				android:layout_width="match_parent"
+				android:layout_height="match_parent"
+				android:background="@drawable/full_gb"
+		>
+
+	<TextView
+			android:id="@+id/fullscreen_content"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:gravity="center"
+			android:layout_marginTop="80dp"
+			android:keepScreenOn="true"
+			android:text="展会蓝牙基站系统"
+			android:textColor="#4876FF"
+			android:textSize="32sp"
+			android:textStyle="normal" />
+
+
+	<AutoCompleteTextView
+			android:layout_width="300dp"
+			android:layout_height="wrap_content"
+			android:id="@+id/tv_act"
+			android:textSize="20sp"
+			android:hint="请输入帐号"
+			android:digits="1234567890qwertyuiopasdfghjklzxcvbnmQWERTYUIOPASDFGHJKLZXCVBNM"
+			android:textColor="#66666e"
+			android:layout_centerHorizontal="true"
+			android:layout_marginTop="250dp"
+			/>
+
+	<EditText android:layout_width="300dp"
+			  android:layout_height="wrap_content"
+			  android:id="@+id/tv_psd"
+			  android:textSize="20sp"
+			  android:inputType="textPassword"
+			  android:hint="请输入密码"
+			  android:textColor="#ff7d899d"
+			  android:layout_below="@+id/tv_act"
+			  android:layout_centerHorizontal="true"
+			/>
+	<CheckBox android:layout_width="300dp"
+			  android:id="@+id/save_psd_cb"
+			  android:layout_height="wrap_content"
+			  android:layout_centerHorizontal="true"
+			  android:layout_below="@+id/tv_psd"
+			  android:layout_marginLeft="20dp"
+			  android:text="记住密码" >
+	</CheckBox>
+
+	<Button android:layout_width="300dp"
+			android:layout_height="wrap_content"
+			android:layout_centerHorizontal="true"
+			android:layout_below="@+id/save_psd_cb"
+			android:id="@+id/bt_login"
+			android:textSize="25sp"
+			android:textColor="#ffffff"
+			android:background="#4876FF"
+			android:text="登录"
+			/>
+
+
+
+</RelativeLayout>
